@@ -39,6 +39,5 @@ class CashRegister
     # @total -= @last_transaction_amount
     self.total = self.total - self.last_purchase
   end
-  end
 
 end
